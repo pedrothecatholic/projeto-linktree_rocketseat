@@ -51,7 +51,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ por [pedrothecatholic](https://github.com/pedrothecatholic) :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ por [pedrothecatholic](https://github.com/pedrothecatholic) :wave:
 
 <!--START_SECTION:footer-->
 
