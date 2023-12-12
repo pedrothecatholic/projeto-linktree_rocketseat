@@ -6,7 +6,7 @@ function toggleMode() {
   const img = document.querySelector('#profile img');
 
   // Salvar o estado atual do modo no armazenamento local
-  const currentMode = html.classList.contains('light') ? 'light' : 'dark';
+  const currentMode = html.classList.contains('light') ? 'light' : '';
   localStorage.setItem('theme', currentMode);
 
   // Substituir a imagem
