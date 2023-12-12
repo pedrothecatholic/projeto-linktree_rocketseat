@@ -12,10 +12,10 @@ function toggleMode() {
   // Substituir a imagem
   if (html.classList.contains('light')) {
     // Se estiver no modo claro, adicionar a imagem light
-    img.setAttribute('src', './assets/avatar-light.png');
+    img.setAttribute('src', '../assets/avatar.png');
   } else {
     // Se estiver no modo escuro, manter a imagem normal
-    img.setAttribute('src', './assets/avatar.png');
+    img.setAttribute('src', '../assets/avatar-light.png');
   }
 }
 
@@ -30,7 +30,7 @@ function applySavedTheme() {
 
     // Atualizar a imagem de acordo com o modo salvo
     if (savedTheme === 'light') {
-      img.setAttribute('src', './assets/avatar-light.png');
+      img.setAttribute('src', '../assets/avatar.png');
     }
   }
 }
